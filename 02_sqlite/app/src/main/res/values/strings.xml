@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="users_label">Usuarios:</string>
+</resources>
